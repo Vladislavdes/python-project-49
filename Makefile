@@ -12,3 +12,6 @@ publish:
 
 package-install:
 	python3 -m pip install --user python3 -m pip install --user /usr/bin/python3
+
+make lint:
+	poetry run flake8 brain_games
