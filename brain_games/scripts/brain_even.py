@@ -8,7 +8,7 @@ def brain_even():
     print(f'Hello, {name}')
     print('Answer "yes" if the number is even, otherwise answer "no".')
     while counter < 3:
-        num = random.randint(1,101)
+        num = random.randint(1, 101)
         print(f'Question: {num}')
         your_answer = prompt.string('Your answer:')
         if num % 2 == 0 and your_answer == 'yes':
@@ -20,10 +20,7 @@ def brain_even():
             counter += 1
             print(counter)
         else:
-            return f"""'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, {name}!"""
-            
+            return f"""'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, {name}!"""    
     if counter == 3:
         print(f'Congratulations, {name}!')
-        
-
 print(brain_even())
