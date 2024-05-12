@@ -5,3 +5,4 @@
 
 <a href='https://asciinema.org/a/e4NXh5FUofpRNqjdAOOb1eg0p'>Brain-even</a>
 <a href='https://asciinema.org/a/e4NXh5FUofpRNqjdAOOb1eg0p'>Brain-calc</a>
+<a href ='https://asciinema.org/a/KXYoo60h9B1mPSRAJQA1TfIR9'>Brain-gcd</a>

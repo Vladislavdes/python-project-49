@@ -1,6 +1,7 @@
 import prompt
 import random
 
+
 def brain_even():
     counter = 0
     print('Welcome to the Brain Games!')
