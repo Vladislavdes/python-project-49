@@ -1,4 +1,4 @@
-#!/mnt/d/проекты/python-project-49/brain_games/scripts
+#!/mnt/d/projectct/python-project-49/brain_games
 from brain_games.cli import welcome_user
 
 
